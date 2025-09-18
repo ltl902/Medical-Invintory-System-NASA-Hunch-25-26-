@@ -8,7 +8,7 @@
 
 [Hunch PRD](https://docs.google.com/document/d/1xbYMEUOa4X8jCOhtI8mB1611vSFbLBnLVmrof_Y4Wvc/edit?usp=sharing)
 
-
+[wiring blue prints](https://app.cirkitdesigner.com/project/d2d764b4-2a9c-42e9-9431-0f63c1c31c4d)
 
 ## Facial recognition script
 
